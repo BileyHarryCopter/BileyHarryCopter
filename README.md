@@ -30,6 +30,8 @@ I'm a 2-nd grade student by MIPT [DREC](https://mipt.ru/education/departments/fr
 
   [![My Skills](https://skillicons.dev/icons?i=markdown,latex)](https://skillicons.dev)
 
-- System of control versions:
+- Other skills:
 
-  [![My Skills](https://skillicons.dev/icons?i=git)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=git,cmake,linux)](https://skillicons.dev)
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BileyHarryCopter&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
