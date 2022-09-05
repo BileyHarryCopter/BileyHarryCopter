@@ -33,4 +33,3 @@ I'm a 2-nd grade student by MIPT [DREC](https://mipt.ru/education/departments/fr
 - System of control versions:
 
   [![My Skills](https://skillicons.dev/icons?i=git)](https://skillicons.dev)
-s
