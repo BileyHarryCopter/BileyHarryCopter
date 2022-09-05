@@ -1,6 +1,6 @@
-## **Hi!** :slightly_smiling_face:
+**Hi!** :slightly_smiling_face:
 
-### My name is **Dany**  and it's my GitHub page! 
+My name is **Dany**  and it's my GitHub page! 
 
 ## <ins>Education</ins>
 
