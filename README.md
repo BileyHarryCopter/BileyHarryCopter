@@ -6,7 +6,7 @@ My name is **Dany**  and it's my GitHub page!
 
 ## <ins>Education</ins>
 
-I'm a 2-nd grade student by MIPT [DREC](https://mipt.ru/education/departments/frkt/) (Department of Radio Engineering and Cybernetics) :mechanical_leg:
+I'm a 3-rd grade student by MIPT [DIHT](https://mipt.ru/education/departments/fivt.php) (Department of Innovation and High Technology)
 
 ## <ins>Languages</ins>
 
